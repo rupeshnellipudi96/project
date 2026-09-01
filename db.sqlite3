@@ -1,0 +1,5 @@
+number=0
+if number==0:
+  print("hai")
+else:
+  print("ok")
